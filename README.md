@@ -27,7 +27,7 @@ Algumas ferramentas que desenvolvi na RINA (o código é da empresa, por isso n�
 
 ## 🛠️ Ferramentas
 
-**Linguagens:** Python, SQL, VBA
-**Dados e BI:** Pandas, Power BI, Excel avançado, PostgreSQL, MySQL
-**Nuvem e DevOps:** AWS (Lambda, CloudWatch, S3, EC2), Docker, Git, CI/CD
-**IA:** Claude e Gemini, para desenvolvimento e automação
+- **Linguagens:** Python, SQL, VBA
+- **Dados e BI:** Pandas, Power BI, Excel avançado, PostgreSQL, MySQL
+- **Nuvem e DevOps:** AWS (Lambda, CloudWatch, S3, EC2), Docker, Git, CI/CD
+- **IA:** Claude e Gemini, para desenvolvimento e automação
