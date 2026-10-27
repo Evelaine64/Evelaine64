@@ -1,6 +1,6 @@
 # Olá, eu sou a Evelaine 👋
 
-Trabalho com **dados e automação de processos**. Hoje sou estagiária de Dados na **RINA**, onde construo ferramentas em Python, Excel/VBA e Power BI para equipes de engenharia, e uso IA no dia a dia para desenvolver mais rápido.
+Trabalho com **dados e automação de processos**. Hoje sou estagiária de Dados na **RINA**, onde construo ferramentas em Python, Excel/VBA e Power BI para equipes de engenharia.
 
 Estudo **Sistemas de Computação na UFF** e já passei pela **FGV IBRE** (engenharia de dados) e pela **Daniel Law** (SQL).
 
@@ -30,4 +30,3 @@ Algumas ferramentas que desenvolvi na RINA (o código é da empresa, por isso n�
 - **Linguagens:** Python, SQL, VBA
 - **Dados e BI:** Pandas, Power BI, Excel avançado, PostgreSQL, MySQL
 - **Nuvem e DevOps:** AWS (Lambda, CloudWatch, S3, EC2), Docker, Git, CI/CD
-- **IA:** Claude e Gemini, para desenvolvimento e automação
